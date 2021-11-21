@@ -1,0 +1,55 @@
+[
+  {
+    "nextid": {
+      "id": 7
+    }
+  },
+  {
+    "dvd": {
+      "price": 40,
+      "name": "The Hobbit",
+      "available": true,
+      "id": 1
+    }
+  },
+  {
+    "dvd": {
+      "price": 50,
+      "name": "Fast & Furious",
+      "available": true,
+      "id": 2
+    }
+  },
+  {
+    "dvd": {
+      "price": 35,
+      "name": "Hercules",
+      "available": true,
+      "id": 3
+    }
+  },
+  {
+    "dvd": {
+      "price": 50,
+      "name": "Cinderella",
+      "available": true,
+      "id": 4
+    }
+  },
+  {
+    "dvd": {
+      "price": 50,
+      "name": "Mohana",
+      "available": true,
+      "id": 5
+    }
+  },
+  {
+    "dvd": {
+      "price": 32,
+      "name": "Big Bang",
+      "available": true,
+      "id": 6
+    }
+  }
+]
